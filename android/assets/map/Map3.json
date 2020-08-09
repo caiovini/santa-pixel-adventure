@@ -1,0 +1,1328 @@
+[
+  {
+    "material": "png/Object/Tree_2.png",
+    "posX": 0,
+    "posY": 384
+  },
+  {
+    "material": "png/Tiles/1.png",
+    "posX": 0,
+    "posY": 256
+  },
+  {
+    "material": "png/Tiles/4.png",
+    "posX": 0,
+    "posY": 128
+  },
+  {
+    "material": "png/Tiles/4.png",
+    "posX": 0,
+    "posY": 0
+  },
+  {
+    "material": "png/Tiles/2.png",
+    "posX": 128,
+    "posY": 256
+  },
+  {
+    "material": "png/Tiles/5.png",
+    "posX": 128,
+    "posY": 128
+  },
+  {
+    "material": "png/Tiles/5.png",
+    "posX": 128,
+    "posY": 0
+  },
+  {
+    "material": "png/Tiles/2.png",
+    "posX": 256,
+    "posY": 256
+  },
+  {
+    "material": "png/Tiles/5.png",
+    "posX": 256,
+    "posY": 128
+  },
+  {
+    "material": "png/Tiles/5.png",
+    "posX": 256,
+    "posY": 0
+  },
+  {
+    "material": "png/Tiles/2.png",
+    "posX": 384,
+    "posY": 256
+  },
+  {
+    "material": "png/Tiles/5.png",
+    "posX": 384,
+    "posY": 128
+  },
+  {
+    "material": "png/Tiles/5.png",
+    "posX": 384,
+    "posY": 0
+  },
+  {
+    "material": "png/Tiles/2.png",
+    "posX": 512,
+    "posY": 256
+  },
+  {
+    "material": "png/Tiles/5.png",
+    "posX": 512,
+    "posY": 128
+  },
+  {
+    "material": "png/Tiles/5.png",
+    "posX": 512,
+    "posY": 0
+  },
+  {
+    "material": "png/Tiles/2.png",
+    "posX": 640,
+    "posY": 256
+  },
+  {
+    "material": "png/Tiles/5.png",
+    "posX": 640,
+    "posY": 128
+  },
+  {
+    "material": "png/Tiles/5.png",
+    "posX": 640,
+    "posY": 0
+  },
+  {
+    "material": "png/Tiles/14.png",
+    "posX": 200,
+    "posY": 800
+  },
+  {
+    "material": "png/Tiles/15.png",
+    "posX": 328,
+    "posY": 800
+  },
+  {
+    "material": "png/Tiles/15.png",
+    "posX": 456,
+    "posY": 800
+  },
+  {
+    "material": "png/Object/Tree_1.png",
+    "posX": 456,
+    "posY": 893
+  },
+  {
+    "material": "png/Tiles/15.png",
+    "posX": 584,
+    "posY": 800
+  },
+  {
+    "material": "png/Tiles/16.png",
+    "posX": 712,
+    "posY": 800
+  },
+  {
+    "material": "png/Tiles/2.png",
+    "posX": 768,
+    "posY": 256
+  },
+  {
+    "material": "png/Tiles/5.png",
+    "posX": 768,
+    "posY": 128
+  },
+  {
+    "material": "png/Tiles/5.png",
+    "posX": 768,
+    "posY": 0
+  },
+  {
+    "material": "png/Tiles/2.png",
+    "posX": 896,
+    "posY": 256
+  },
+  {
+    "material": "png/Tiles/5.png",
+    "posX": 896,
+    "posY": 128
+  },
+  {
+    "material": "png/Tiles/5.png",
+    "posX": 896,
+    "posY": 0
+  },
+  {
+    "material": "png/Object/Crystal.png",
+    "posX": 896,
+    "posY": 384
+  },
+  {
+    "material": "png/Tiles/2.png",
+    "posX": 896,
+    "posY": 256
+  },
+  {
+    "material": "png/Tiles/5.png",
+    "posX": 896,
+    "posY": 128
+  },
+  {
+    "material": "png/Tiles/5.png",
+    "posX": 896,
+    "posY": 0
+  },
+  {
+    "material": "png/Tiles/3.png",
+    "posX": 1024,
+    "posY": 256
+  },
+  {
+    "material": "png/Tiles/6.png",
+    "posX": 1024,
+    "posY": 128
+  },
+  {
+    "material": "png/Tiles/6.png",
+    "posX": 1024,
+    "posY": 0
+  },
+  {
+    "material": "png/Tiles/water_surface.png",
+    "posX": 1152,
+    "posY": 220
+  },
+  {
+    "material": "png/Tiles/water_bottom.png",
+    "posX": 1152,
+    "posY": 92
+  },
+  {
+    "material": "png/Tiles/water_bottom.png",
+    "posX": 1152,
+    "posY": -36
+  },
+  {
+    "material": "png/Tiles/water_surface.png",
+    "posX": 1280,
+    "posY": 220
+  },
+  {
+    "material": "png/Tiles/water_bottom.png",
+    "posX": 1280,
+    "posY": 92
+  },
+  {
+    "material": "png/Tiles/water_bottom.png",
+    "posX": 1280,
+    "posY": -36
+  },
+  {
+    "material": "png/Tiles/1.png",
+    "posX": 1408,
+    "posY": 256
+  },
+  {
+    "material": "png/Tiles/4.png",
+    "posX": 1408,
+    "posY": 128
+  },
+  {
+    "material": "png/Tiles/4.png",
+    "posX": 1408,
+    "posY": 0
+  },
+  {
+    "material": "png/Tiles/3.png",
+    "posX": 1536,
+    "posY": 256
+  },
+  {
+    "material": "png/Tiles/6.png",
+    "posX": 1536,
+    "posY": 128
+  },
+  {
+    "material": "png/Tiles/6.png",
+    "posX": 1536,
+    "posY": 0
+  },
+  {
+    "material": "png/Tiles/water_surface.png",
+    "posX": 1664,
+    "posY": 220
+  },
+  {
+    "material": "png/Tiles/water_bottom.png",
+    "posX": 1664,
+    "posY": 92
+  },
+  {
+    "material": "png/Tiles/water_bottom.png",
+    "posX": 1664,
+    "posY": -36
+  },
+  {
+    "material": "png/Tiles/water_surface.png",
+    "posX": 1792,
+    "posY": 220
+  },
+  {
+    "material": "png/Tiles/water_bottom.png",
+    "posX": 1792,
+    "posY": 92
+  },
+  {
+    "material": "png/Tiles/water_bottom.png",
+    "posX": 1792,
+    "posY": -36
+  },
+  {
+    "material": "png/Tiles/1.png",
+    "posX": 1920,
+    "posY": 256
+  },
+  {
+    "material": "png/Tiles/4.png",
+    "posX": 1920,
+    "posY": 128
+  },
+  {
+    "material": "png/Tiles/4.png",
+    "posX": 1920,
+    "posY": 0
+  },
+  {
+    "material": "png/Tiles/3.png",
+    "posX": 2048,
+    "posY": 256
+  },
+  {
+    "material": "png/Tiles/6.png",
+    "posX": 2048,
+    "posY": 128
+  },
+  {
+    "material": "png/Tiles/6.png",
+    "posX": 2048,
+    "posY": 0
+  },
+  {
+    "material": "png/Object/SnowMan.png",
+    "posX": 1900,
+    "posY": 384
+  },
+  {
+    "material": "png/Object/Crate.png",
+    "posX": 1800,
+    "posY": 500
+  },
+  {
+    "material": "png/Tiles/water_surface.png",
+    "posX": 2176,
+    "posY": 220
+  },
+  {
+    "material": "png/Tiles/water_bottom.png",
+    "posX": 2176,
+    "posY": 92
+  },
+  {
+    "material": "png/Tiles/water_bottom.png",
+    "posX": 2176,
+    "posY": -36
+  },
+  {
+    "material": "png/Tiles/water_surface.png",
+    "posX": 2304,
+    "posY": 220
+  },
+  {
+    "material": "png/Tiles/water_bottom.png",
+    "posX": 2304,
+    "posY": 92
+  },
+  {
+    "material": "png/Tiles/water_bottom.png",
+    "posX": 2304,
+    "posY": -36
+  },
+  {
+    "material": "png/Tiles/1.png",
+    "posX": 2432,
+    "posY": 256
+  },
+  {
+    "material": "png/Tiles/4.png",
+    "posX": 2432,
+    "posY": 128
+  },
+  {
+    "material": "png/Tiles/4.png",
+    "posX": 2432,
+    "posY": 0
+  },
+  {
+    "material": "png/Tiles/2.png",
+    "posX": 2560,
+    "posY": 256
+  },
+  {
+    "material": "png/Tiles/5.png",
+    "posX": 2560,
+    "posY": 128
+  },
+  {
+    "material": "png/Tiles/5.png",
+    "posX": 2560,
+    "posY": 0
+  },
+  {
+    "material": "png/Tiles/2.png",
+    "posX": 2688,
+    "posY": 256
+  },
+  {
+    "material": "png/Tiles/5.png",
+    "posX": 2688,
+    "posY": 128
+  },
+  {
+    "material": "png/Tiles/5.png",
+    "posX": 2688,
+    "posY": 0
+  },
+  {
+    "material": "png/Tiles/2.png",
+    "posX": 2816,
+    "posY": 256
+  },
+  {
+    "material": "png/Tiles/5.png",
+    "posX": 2816,
+    "posY": 128
+  },
+  {
+    "material": "png/Tiles/5.png",
+    "posX": 2816,
+    "posY": 0
+  },
+  {
+    "material": "png/Tiles/2.png",
+    "posX": 2944,
+    "posY": 256
+  },
+  {
+    "material": "png/Tiles/5.png",
+    "posX": 2944,
+    "posY": 128
+  },
+  {
+    "material": "png/Tiles/5.png",
+    "posX": 2944,
+    "posY": 0
+  },
+  {
+    "material": "png/Object/Igloo.png",
+    "posX": 2944,
+    "posY": 384
+  },
+  {
+    "material": "png/Object/Tree_2.png",
+    "posX": 3200,
+    "posY": 384
+  },
+  {
+    "material": "png/Object/Tree_1.png",
+    "posX": 2500,
+    "posY": 384
+  },
+  {
+    "material": "png/Object/Stone.png",
+    "posX": 3500,
+    "posY": 384
+  },
+  {
+    "material": "png/Object/IceBox.png",
+    "posX": 3700,
+    "posY": 384
+  },
+  {
+    "material": "png/Object/IceBox.png",
+    "posX": 3801,
+    "posY": 586
+  },
+  {
+    "material": "png/Object/IceBox.png",
+    "posX": 3750,
+    "posY": 485
+  },
+  {
+    "material": "png/Object/IceBox.png",
+    "posX": 3851,
+    "posY": 485
+  },
+  {
+    "material": "png/Object/IceBox.png",
+    "posX": 3801,
+    "posY": 384
+  },
+  {
+    "material": "png/Object/IceBox.png",
+    "posX": 3902,
+    "posY": 384
+  },
+  {
+    "material": "png/Tiles/2.png",
+    "posX": 3072,
+    "posY": 256
+  },
+  {
+    "material": "png/Tiles/5.png",
+    "posX": 3072,
+    "posY": 128
+  },
+  {
+    "material": "png/Tiles/5.png",
+    "posX": 3072,
+    "posY": 0
+  },
+  {
+    "material": "png/Tiles/2.png",
+    "posX": 3200,
+    "posY": 256
+  },
+  {
+    "material": "png/Tiles/5.png",
+    "posX": 3200,
+    "posY": 128
+  },
+  {
+    "material": "png/Tiles/5.png",
+    "posX": 3200,
+    "posY": 0
+  },
+  {
+    "material": "png/Tiles/2.png",
+    "posX": 3328,
+    "posY": 256
+  },
+  {
+    "material": "png/Tiles/5.png",
+    "posX": 3328,
+    "posY": 128
+  },
+  {
+    "material": "png/Tiles/5.png",
+    "posX": 3328,
+    "posY": 0
+  },
+  {
+    "material": "png/Tiles/2.png",
+    "posX": 3456,
+    "posY": 256
+  },
+  {
+    "material": "png/Tiles/5.png",
+    "posX": 3456,
+    "posY": 128
+  },
+  {
+    "material": "png/Tiles/5.png",
+    "posX": 3456,
+    "posY": 0
+  },
+  {
+    "material": "png/Tiles/2.png",
+    "posX": 3584,
+    "posY": 256
+  },
+  {
+    "material": "png/Tiles/5.png",
+    "posX": 3584,
+    "posY": 128
+  },
+  {
+    "material": "png/Tiles/5.png",
+    "posX": 3584,
+    "posY": 0
+  },
+  {
+    "material": "png/Tiles/2.png",
+    "posX": 3712,
+    "posY": 256
+  },
+  {
+    "material": "png/Tiles/5.png",
+    "posX": 3712,
+    "posY": 128
+  },
+  {
+    "material": "png/Tiles/5.png",
+    "posX": 3712,
+    "posY": 0
+  },
+  {
+    "material": "png/Tiles/2.png",
+    "posX": 3840,
+    "posY": 256
+  },
+  {
+    "material": "png/Tiles/5.png",
+    "posX": 3840,
+    "posY": 128
+  },
+  {
+    "material": "png/Tiles/5.png",
+    "posX": 3840,
+    "posY": 0
+  },
+  {
+    "material": "png/Tiles/2.png",
+    "posX": 3968,
+    "posY": 256
+  },
+  {
+    "material": "png/Tiles/5.png",
+    "posX": 3968,
+    "posY": 128
+  },
+  {
+    "material": "png/Tiles/5.png",
+    "posX": 3968,
+    "posY": 0
+  },
+  {
+    "material": "png/Tiles/2.png",
+    "posX": 4096,
+    "posY": 256
+  },
+  {
+    "material": "png/Tiles/5.png",
+    "posX": 4096,
+    "posY": 128
+  },
+  {
+    "material": "png/Tiles/5.png",
+    "posX": 4096,
+    "posY": 0
+  },
+  {
+    "material": "png/Tiles/3.png",
+    "posX": 4224,
+    "posY": 256
+  },
+  {
+    "material": "png/Tiles/6.png",
+    "posX": 4224,
+    "posY": 128
+  },
+  {
+    "material": "png/Tiles/6.png",
+    "posX": 4224,
+    "posY": 0
+  },
+  {
+    "material": "png/Tiles/water_surface.png",
+    "posX": 4352,
+    "posY": 220
+  },
+  {
+    "material": "png/Tiles/water_bottom.png",
+    "posX": 4352,
+    "posY": 92
+  },
+  {
+    "material": "png/Tiles/water_bottom.png",
+    "posX": 4352,
+    "posY": -36
+  },
+  {
+    "material": "png/Tiles/14.png",
+    "posX": 4400,
+    "posY": 550
+  },
+  {
+    "material": "png/Tiles/15.png",
+    "posX": 4528,
+    "posY": 550
+  },
+  {
+    "material": "png/Tiles/16.png",
+    "posX": 4656,
+    "posY": 550
+  },
+  {
+    "material": "png/Tiles/14.png",
+    "posX": 5000,
+    "posY": 750
+  },
+  {
+    "material": "png/Tiles/15.png",
+    "posX": 5128,
+    "posY": 750
+  },
+  {
+    "material": "png/Tiles/16.png",
+    "posX": 5256,
+    "posY": 750
+  },
+  {
+    "material": "png/Tiles/14.png",
+    "posX": 5856,
+    "posY": 550
+  },
+  {
+    "material": "png/Tiles/15.png",
+    "posX": 5984,
+    "posY": 550
+  },
+  {
+    "material": "png/Tiles/16.png",
+    "posX": 6112,
+    "posY": 550
+  },
+  {
+    "material": "png/Object/Crate.png",
+    "posX": 5600,
+    "posY": 850
+  },
+  {
+    "material": "png/Object/Crate.png",
+    "posX": 5900,
+    "posY": 850
+  },
+  {
+    "material": "png/Object/Crate.png",
+    "posX": 6200,
+    "posY": 850
+  },
+  {
+    "material": "png/Object/Crate.png",
+    "posX": 6500,
+    "posY": 850
+  },
+  {
+    "material": "png/Object/Crate.png",
+    "posX": 6800,
+    "posY": 850
+  },
+  {
+    "material": "png/Object/Crate.png",
+    "posX": 7100,
+    "posY": 850
+  },
+  {
+    "material": "png/Object/Crate.png",
+    "posX": 7400,
+    "posY": 850
+  },
+  {
+    "material": "png/Object/Crate.png",
+    "posX": 7700,
+    "posY": 850
+  },
+  {
+    "material": "png/Object/Crate.png",
+    "posX": 8000,
+    "posY": 850
+  },
+  {
+    "material": "png/Object/Crate.png",
+    "posX": 8300,
+    "posY": 850
+  },
+  {
+    "material": "png/Object/Crate.png",
+    "posX": 8600,
+    "posY": 850
+  },
+  {
+    "material": "png/Object/Crate.png",
+    "posX": 8900,
+    "posY": 850
+  },
+  {
+    "material": "png/Object/SnowMan.png",
+    "posX": 5950,
+    "posY": 643
+  },
+  {
+    "material": "png/Tiles/water_surface.png",
+    "posX": 4480,
+    "posY": 220
+  },
+  {
+    "material": "png/Tiles/water_bottom.png",
+    "posX": 4480,
+    "posY": 92
+  },
+  {
+    "material": "png/Tiles/water_bottom.png",
+    "posX": 4480,
+    "posY": -36
+  },
+  {
+    "material": "png/Tiles/water_surface.png",
+    "posX": 4608,
+    "posY": 220
+  },
+  {
+    "material": "png/Tiles/water_bottom.png",
+    "posX": 4608,
+    "posY": 92
+  },
+  {
+    "material": "png/Tiles/water_bottom.png",
+    "posX": 4608,
+    "posY": -36
+  },
+  {
+    "material": "png/Tiles/water_surface.png",
+    "posX": 4736,
+    "posY": 220
+  },
+  {
+    "material": "png/Tiles/water_bottom.png",
+    "posX": 4736,
+    "posY": 92
+  },
+  {
+    "material": "png/Tiles/water_bottom.png",
+    "posX": 4736,
+    "posY": -36
+  },
+  {
+    "material": "png/Tiles/water_surface.png",
+    "posX": 4864,
+    "posY": 220
+  },
+  {
+    "material": "png/Tiles/water_bottom.png",
+    "posX": 4864,
+    "posY": 92
+  },
+  {
+    "material": "png/Tiles/water_bottom.png",
+    "posX": 4864,
+    "posY": -36
+  },
+  {
+    "material": "png/Tiles/water_surface.png",
+    "posX": 4992,
+    "posY": 220
+  },
+  {
+    "material": "png/Tiles/water_bottom.png",
+    "posX": 4992,
+    "posY": 92
+  },
+  {
+    "material": "png/Tiles/water_bottom.png",
+    "posX": 4992,
+    "posY": -36
+  },
+  {
+    "material": "png/Tiles/water_surface.png",
+    "posX": 5120,
+    "posY": 220
+  },
+  {
+    "material": "png/Tiles/water_bottom.png",
+    "posX": 5120,
+    "posY": 92
+  },
+  {
+    "material": "png/Tiles/water_bottom.png",
+    "posX": 5120,
+    "posY": -36
+  },
+  {
+    "material": "png/Tiles/water_surface.png",
+    "posX": 5248,
+    "posY": 220
+  },
+  {
+    "material": "png/Tiles/water_bottom.png",
+    "posX": 5248,
+    "posY": 92
+  },
+  {
+    "material": "png/Tiles/water_bottom.png",
+    "posX": 5248,
+    "posY": -36
+  },
+  {
+    "material": "png/Tiles/water_surface.png",
+    "posX": 5376,
+    "posY": 220
+  },
+  {
+    "material": "png/Tiles/water_bottom.png",
+    "posX": 5376,
+    "posY": 92
+  },
+  {
+    "material": "png/Tiles/water_bottom.png",
+    "posX": 5376,
+    "posY": -36
+  },
+  {
+    "material": "png/Tiles/water_surface.png",
+    "posX": 5504,
+    "posY": 220
+  },
+  {
+    "material": "png/Tiles/water_bottom.png",
+    "posX": 5504,
+    "posY": 92
+  },
+  {
+    "material": "png/Tiles/water_bottom.png",
+    "posX": 5504,
+    "posY": -36
+  },
+  {
+    "material": "png/Tiles/water_surface.png",
+    "posX": 5632,
+    "posY": 220
+  },
+  {
+    "material": "png/Tiles/water_bottom.png",
+    "posX": 5632,
+    "posY": 92
+  },
+  {
+    "material": "png/Tiles/water_bottom.png",
+    "posX": 5632,
+    "posY": -36
+  },
+  {
+    "material": "png/Tiles/water_surface.png",
+    "posX": 5760,
+    "posY": 220
+  },
+  {
+    "material": "png/Tiles/water_bottom.png",
+    "posX": 5760,
+    "posY": 92
+  },
+  {
+    "material": "png/Tiles/water_bottom.png",
+    "posX": 5760,
+    "posY": -36
+  },
+  {
+    "material": "png/Tiles/water_surface.png",
+    "posX": 5888,
+    "posY": 220
+  },
+  {
+    "material": "png/Tiles/water_bottom.png",
+    "posX": 5888,
+    "posY": 92
+  },
+  {
+    "material": "png/Tiles/water_bottom.png",
+    "posX": 5888,
+    "posY": -36
+  },
+  {
+    "material": "png/Tiles/water_surface.png",
+    "posX": 6016,
+    "posY": 220
+  },
+  {
+    "material": "png/Tiles/water_bottom.png",
+    "posX": 6016,
+    "posY": 92
+  },
+  {
+    "material": "png/Tiles/water_bottom.png",
+    "posX": 6016,
+    "posY": -36
+  },
+  {
+    "material": "png/Tiles/water_surface.png",
+    "posX": 6144,
+    "posY": 220
+  },
+  {
+    "material": "png/Tiles/water_bottom.png",
+    "posX": 6144,
+    "posY": 92
+  },
+  {
+    "material": "png/Tiles/water_bottom.png",
+    "posX": 6144,
+    "posY": -36
+  },
+  {
+    "material": "png/Tiles/water_surface.png",
+    "posX": 6272,
+    "posY": 220
+  },
+  {
+    "material": "png/Tiles/water_bottom.png",
+    "posX": 6272,
+    "posY": 92
+  },
+  {
+    "material": "png/Tiles/water_bottom.png",
+    "posX": 6272,
+    "posY": -36
+  },
+  {
+    "material": "png/Tiles/water_surface.png",
+    "posX": 6400,
+    "posY": 220
+  },
+  {
+    "material": "png/Tiles/water_bottom.png",
+    "posX": 6400,
+    "posY": 92
+  },
+  {
+    "material": "png/Tiles/water_bottom.png",
+    "posX": 6400,
+    "posY": -36
+  },
+  {
+    "material": "png/Tiles/water_surface.png",
+    "posX": 6528,
+    "posY": 220
+  },
+  {
+    "material": "png/Tiles/water_bottom.png",
+    "posX": 6528,
+    "posY": 92
+  },
+  {
+    "material": "png/Tiles/water_bottom.png",
+    "posX": 6528,
+    "posY": -36
+  },
+  {
+    "material": "png/Tiles/water_surface.png",
+    "posX": 6656,
+    "posY": 220
+  },
+  {
+    "material": "png/Tiles/water_bottom.png",
+    "posX": 6656,
+    "posY": 92
+  },
+  {
+    "material": "png/Tiles/water_bottom.png",
+    "posX": 6656,
+    "posY": -36
+  },
+  {
+    "material": "png/Tiles/water_surface.png",
+    "posX": 6784,
+    "posY": 220
+  },
+  {
+    "material": "png/Tiles/water_bottom.png",
+    "posX": 6784,
+    "posY": 92
+  },
+  {
+    "material": "png/Tiles/water_bottom.png",
+    "posX": 6784,
+    "posY": -36
+  },
+  {
+    "material": "png/Tiles/water_surface.png",
+    "posX": 6912,
+    "posY": 220
+  },
+  {
+    "material": "png/Tiles/water_bottom.png",
+    "posX": 6912,
+    "posY": 92
+  },
+  {
+    "material": "png/Tiles/water_bottom.png",
+    "posX": 6912,
+    "posY": -36
+  },
+  {
+    "material": "png/Tiles/water_surface.png",
+    "posX": 7040,
+    "posY": 220
+  },
+  {
+    "material": "png/Tiles/water_bottom.png",
+    "posX": 7040,
+    "posY": 92
+  },
+  {
+    "material": "png/Tiles/water_bottom.png",
+    "posX": 7040,
+    "posY": -36
+  },
+  {
+    "material": "png/Tiles/water_surface.png",
+    "posX": 7168,
+    "posY": 220
+  },
+  {
+    "material": "png/Tiles/water_bottom.png",
+    "posX": 7168,
+    "posY": 92
+  },
+  {
+    "material": "png/Tiles/water_bottom.png",
+    "posX": 7168,
+    "posY": -36
+  },
+  {
+    "material": "png/Tiles/water_surface.png",
+    "posX": 7296,
+    "posY": 220
+  },
+  {
+    "material": "png/Tiles/water_bottom.png",
+    "posX": 7296,
+    "posY": 92
+  },
+  {
+    "material": "png/Tiles/water_bottom.png",
+    "posX": 7296,
+    "posY": -36
+  },
+  {
+    "material": "png/Tiles/water_surface.png",
+    "posX": 7424,
+    "posY": 220
+  },
+  {
+    "material": "png/Tiles/water_bottom.png",
+    "posX": 7424,
+    "posY": 92
+  },
+  {
+    "material": "png/Tiles/water_bottom.png",
+    "posX": 7424,
+    "posY": -36
+  },
+  {
+    "material": "png/Tiles/water_surface.png",
+    "posX": 7552,
+    "posY": 220
+  },
+  {
+    "material": "png/Tiles/water_bottom.png",
+    "posX": 7552,
+    "posY": 92
+  },
+  {
+    "material": "png/Tiles/water_bottom.png",
+    "posX": 7552,
+    "posY": -36
+  },
+  {
+    "material": "png/Tiles/water_surface.png",
+    "posX": 7680,
+    "posY": 220
+  },
+  {
+    "material": "png/Tiles/water_bottom.png",
+    "posX": 7680,
+    "posY": 92
+  },
+  {
+    "material": "png/Tiles/water_bottom.png",
+    "posX": 7680,
+    "posY": -36
+  },
+  {
+    "material": "png/Tiles/water_surface.png",
+    "posX": 7808,
+    "posY": 220
+  },
+  {
+    "material": "png/Tiles/water_bottom.png",
+    "posX": 7808,
+    "posY": 92
+  },
+  {
+    "material": "png/Tiles/water_bottom.png",
+    "posX": 7808,
+    "posY": -36
+  },
+  {
+    "material": "png/Tiles/water_surface.png",
+    "posX": 7936,
+    "posY": 220
+  },
+  {
+    "material": "png/Tiles/water_bottom.png",
+    "posX": 7936,
+    "posY": 92
+  },
+  {
+    "material": "png/Tiles/water_bottom.png",
+    "posX": 7936,
+    "posY": -36
+  },
+  {
+    "material": "png/Tiles/water_surface.png",
+    "posX": 8064,
+    "posY": 220
+  },
+  {
+    "material": "png/Tiles/water_bottom.png",
+    "posX": 8064,
+    "posY": 92
+  },
+  {
+    "material": "png/Tiles/water_bottom.png",
+    "posX": 8064,
+    "posY": -36
+  },
+  {
+    "material": "png/Tiles/water_surface.png",
+    "posX": 8192,
+    "posY": 220
+  },
+  {
+    "material": "png/Tiles/water_bottom.png",
+    "posX": 8192,
+    "posY": 92
+  },
+  {
+    "material": "png/Tiles/water_bottom.png",
+    "posX": 8192,
+    "posY": -36
+  },
+  {
+    "material": "png/Tiles/water_surface.png",
+    "posX": 8320,
+    "posY": 220
+  },
+  {
+    "material": "png/Tiles/water_bottom.png",
+    "posX": 8320,
+    "posY": 92
+  },
+  {
+    "material": "png/Tiles/water_bottom.png",
+    "posX": 8320,
+    "posY": -36
+  },
+  {
+    "material": "png/Tiles/water_surface.png",
+    "posX": 8448,
+    "posY": 220
+  },
+  {
+    "material": "png/Tiles/water_bottom.png",
+    "posX": 8448,
+    "posY": 92
+  },
+  {
+    "material": "png/Tiles/water_bottom.png",
+    "posX": 8448,
+    "posY": -36
+  },
+  {
+    "material": "png/Tiles/water_surface.png",
+    "posX": 8576,
+    "posY": 220
+  },
+  {
+    "material": "png/Tiles/water_bottom.png",
+    "posX": 8576,
+    "posY": 92
+  },
+  {
+    "material": "png/Tiles/water_bottom.png",
+    "posX": 8576,
+    "posY": -36
+  },
+  {
+    "material": "png/Tiles/water_surface.png",
+    "posX": 8704,
+    "posY": 220
+  },
+  {
+    "material": "png/Tiles/water_bottom.png",
+    "posX": 8704,
+    "posY": 92
+  },
+  {
+    "material": "png/Tiles/water_bottom.png",
+    "posX": 8704,
+    "posY": -36
+  },
+  {
+    "material": "png/Tiles/water_surface.png",
+    "posX": 8832,
+    "posY": 220
+  },
+  {
+    "material": "png/Tiles/water_bottom.png",
+    "posX": 8832,
+    "posY": 92
+  },
+  {
+    "material": "png/Tiles/water_bottom.png",
+    "posX": 8832,
+    "posY": -36
+  }
+,
+  {
+    "material": "png/Tiles/water_surface.png",
+    "posX": 8960,
+    "posY": 220
+  },
+  {
+    "material": "png/Tiles/water_bottom.png",
+    "posX": 8960,
+    "posY": 92
+  },
+  {
+    "material": "png/Tiles/water_bottom.png",
+    "posX": 8960,
+    "posY": -36
+  },
+  {
+    "material": "png/Tiles/1.png",
+    "posX": 9088,
+    "posY": 256
+  },
+  {
+    "material": "png/Tiles/4.png",
+    "posX": 9088,
+    "posY": 128
+  },
+  {
+    "material": "png/Tiles/4.png",
+    "posX": 9088,
+    "posY": 0
+  },
+  {
+    "material": "png/Tiles/3.png",
+    "posX": 9216,
+    "posY": 256
+  },
+  {
+    "material": "png/Tiles/6.png",
+    "posX": 9216,
+    "posY": 128
+  },
+  {
+    "material": "png/Tiles/6.png",
+    "posX": 9216,
+    "posY": 0
+  },
+  {
+    "material": "png/Object/Sign_1.png",
+    "posX": 9208,
+    "posY": 384
+  }
+]

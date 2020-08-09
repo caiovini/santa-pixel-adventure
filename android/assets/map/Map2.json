@@ -1,0 +1,1227 @@
+[
+  {
+    "material": "png/Tiles/1.png",
+    "posX": 0,
+    "posY": 384
+  },
+  {
+    "material": "png/Tiles/4.png",
+    "posX": 0,
+    "posY": 256
+  },
+  {
+    "material": "png/Tiles/4.png",
+    "posX": 0,
+    "posY": 128
+  },
+  {
+    "material": "png/Tiles/4.png",
+    "posX": 0,
+    "posY": 0
+  },
+  {
+    "material": "png/Tiles/14.png",
+    "posX": 200,
+    "posY": 900
+  },
+  {
+    "material": "png/Tiles/15.png",
+    "posX": 328,
+    "posY": 900
+  },
+  {
+    "material": "png/Tiles/16.png",
+    "posX": 456,
+    "posY": 900
+  },
+  {
+    "material": "png/Tiles/2.png",
+    "posX": 128,
+    "posY": 384
+  },
+  {
+    "material": "png/Tiles/5.png",
+    "posX": 128,
+    "posY": 256
+  },
+  {
+    "material": "png/Tiles/5.png",
+    "posX": 128,
+    "posY": 128
+  },
+  {
+    "material": "png/Tiles/5.png",
+    "posX": 128,
+    "posY": 0
+  },
+  {
+    "material": "png/Tiles/2.png",
+    "posX": 256,
+    "posY": 384
+  },
+  {
+    "material": "png/Tiles/5.png",
+    "posX": 256,
+    "posY": 256
+  },
+  {
+    "material": "png/Tiles/5.png",
+    "posX": 256,
+    "posY": 128
+  },
+  {
+    "material": "png/Tiles/5.png",
+    "posX": 256,
+    "posY": 0
+  },
+  {
+    "material": "png/Tiles/2.png",
+    "posX": 384,
+    "posY": 384
+  },
+  {
+    "material": "png/Tiles/5.png",
+    "posX": 384,
+    "posY": 256
+  },
+  {
+    "material": "png/Tiles/5.png",
+    "posX": 384,
+    "posY": 128
+  },
+  {
+    "material": "png/Tiles/5.png",
+    "posX": 384,
+    "posY": 0
+  },
+  {
+    "material": "png/Tiles/3.png",
+    "posX": 512,
+    "posY": 384
+  },
+  {
+    "material": "png/Tiles/6.png",
+    "posX": 512,
+    "posY": 256
+  },
+  {
+    "material": "png/Tiles/6.png",
+    "posX": 512,
+    "posY": 128
+  },
+  {
+    "material": "png/Tiles/6.png",
+    "posX": 512,
+    "posY": 0
+  },
+  {
+    "material": "png/Object/IceBox.png",
+    "posX": 640,
+    "posY": 0
+  },
+  {
+    "material": "png/Object/IceBox.png",
+    "posX": 640,
+    "posY": 101
+  },
+  {
+    "material": "png/Object/IceBox.png",
+    "posX": 640,
+    "posY": 202
+  },
+  {
+    "material": "png/Object/IceBox.png",
+    "posX": 640,
+    "posY": 303
+  },
+  {
+    "material": "png/Object/IceBox.png",
+    "posX": 640,
+    "posY": 404
+  },
+  {
+    "material": "png/Object/Crate.png",
+    "posX": 741,
+    "posY": 404
+  },
+  {
+    "material": "png/Object/Crate.png",
+    "posX": 842,
+    "posY": 404
+  },
+  {
+    "material": "png/Object/Crate.png",
+    "posX": 943,
+    "posY": 404
+  },
+  {
+    "material": "png/Object/Crate.png",
+    "posX": 1044,
+    "posY": 404
+  },
+  {
+    "material": "png/Object/Crate.png",
+    "posX": 1145,
+    "posY": 404
+  },
+  {
+    "material": "png/Object/Crate.png",
+    "posX": 1246,
+    "posY": 404
+  },
+  {
+    "material": "png/Tiles/1.png",
+    "posX": 1400,
+    "posY": 256
+  },
+  {
+    "material": "png/Tiles/4.png",
+    "posX": 1400,
+    "posY": 128
+  },
+  {
+    "material": "png/Tiles/4.png",
+    "posX": 1400,
+    "posY": 0
+  },
+  {
+    "material": "png/Tiles/2.png",
+    "posX": 1528,
+    "posY": 256
+  },
+  {
+    "material": "png/Tiles/5.png",
+    "posX": 1528,
+    "posY": 128
+  },
+  {
+    "material": "png/Tiles/5.png",
+    "posX": 1528,
+    "posY": 0
+  },
+  {
+    "material": "png/Tiles/2.png",
+    "posX": 1656,
+    "posY": 256
+  },
+  {
+    "material": "png/Tiles/5.png",
+    "posX": 1656,
+    "posY": 128
+  },
+  {
+    "material": "png/Tiles/5.png",
+    "posX": 1656,
+    "posY": 0
+  },
+  {
+    "material": "png/Tiles/14.png",
+    "posX": 1800,
+    "posY": 700
+  },
+  {
+    "material": "png/Object/SnowMan.png",
+    "posX": 1900,
+    "posY": 793
+  },
+  {
+    "material": "png/Tiles/15.png",
+    "posX": 1928,
+    "posY": 700
+  },
+  {
+    "material": "png/Tiles/16.png",
+    "posX": 2056,
+    "posY": 700
+  },
+  {
+    "material": "png/Tiles/2.png",
+    "posX": 1784,
+    "posY": 256
+  },
+  {
+    "material": "png/Tiles/5.png",
+    "posX": 1784,
+    "posY": 128
+  },
+  {
+    "material": "png/Tiles/5.png",
+    "posX": 1784,
+    "posY": 0
+  },
+  {
+    "material": "png/Tiles/2.png",
+    "posX": 1912,
+    "posY": 256
+  },
+  {
+    "material": "png/Tiles/5.png",
+    "posX": 1912,
+    "posY": 128
+  },
+  {
+    "material": "png/Tiles/5.png",
+    "posX": 1912,
+    "posY": 0
+  },
+  {
+    "material": "png/Tiles/2.png",
+    "posX": 2040,
+    "posY": 256
+  },
+  {
+    "material": "png/Tiles/5.png",
+    "posX": 2040,
+    "posY": 128
+  },
+  {
+    "material": "png/Tiles/5.png",
+    "posX": 2040,
+    "posY": 0
+  },
+  {
+    "material": "png/Tiles/2.png",
+    "posX": 2168,
+    "posY": 256
+  },
+  {
+    "material": "png/Tiles/5.png",
+    "posX": 2168,
+    "posY": 128
+  },
+  {
+    "material": "png/Tiles/5.png",
+    "posX": 2168,
+    "posY": 0
+  },
+  {
+    "material": "png/Tiles/2.png",
+    "posX": 2296,
+    "posY": 256
+  },
+  {
+    "material": "png/Tiles/5.png",
+    "posX": 2296,
+    "posY": 128
+  },
+  {
+    "material": "png/Tiles/5.png",
+    "posX": 2296,
+    "posY": 0
+  },
+  {
+    "material": "png/Tiles/2.png",
+    "posX": 2424,
+    "posY": 256
+  },
+  {
+    "material": "png/Tiles/5.png",
+    "posX": 2424,
+    "posY": 128
+  },
+  {
+    "material": "png/Tiles/5.png",
+    "posX": 2424,
+    "posY": 0
+  },
+  {
+    "material": "png/Object/Tree_1.png",
+    "posX": 2424,
+    "posY": 384
+  },
+  {
+    "material": "png/Tiles/2.png",
+    "posX": 2552,
+    "posY": 256
+  },
+  {
+    "material": "png/Tiles/5.png",
+    "posX": 2552,
+    "posY": 128
+  },
+  {
+    "material": "png/Tiles/5.png",
+    "posX": 2552,
+    "posY": 0
+  },
+  {
+    "material": "png/Tiles/3.png",
+    "posX": 2680,
+    "posY": 256
+  },
+  {
+    "material": "png/Tiles/6.png",
+    "posX": 2680,
+    "posY": 128
+  },
+  {
+    "material": "png/Tiles/6.png",
+    "posX": 2680,
+    "posY": 0
+  },
+  {
+    "material": "png/Tiles/water_surface.png",
+    "posX": 2808,
+    "posY": 220
+  },
+  {
+    "material": "png/Object/Crate.png",
+    "posX": 2808,
+    "posY": 600
+  },
+  {
+    "material": "png/Object/Crate.png",
+    "posX": 3108,
+    "posY": 600
+  },
+  {
+    "material": "png/Object/Crate.png",
+    "posX": 3408,
+    "posY": 600
+  },
+  {
+    "material": "png/Object/Crate.png",
+    "posX": 3708,
+    "posY": 600
+  },
+  {
+    "material": "png/Object/Crate.png",
+    "posX": 4008,
+    "posY": 600
+  },
+  {
+    "material": "png/Object/Crate.png",
+    "posX": 4308,
+    "posY": 600
+  },
+  {
+    "material": "png/Tiles/water_bottom.png",
+    "posX": 2808,
+    "posY": 92
+  },
+  {
+    "material": "png/Tiles/water_bottom.png",
+    "posX": 2808,
+    "posY": -36
+  },
+  {
+    "material": "png/Tiles/water_surface.png",
+    "posX": 2936,
+    "posY": 220
+  },
+  {
+    "material": "png/Tiles/water_bottom.png",
+    "posX": 2936,
+    "posY": 92
+  },
+  {
+    "material": "png/Tiles/water_bottom.png",
+    "posX": 2936,
+    "posY": -36
+  },
+  {
+    "material": "png/Tiles/water_surface.png",
+    "posX": 3064,
+    "posY": 220
+  },
+  {
+    "material": "png/Tiles/water_bottom.png",
+    "posX": 3064,
+    "posY": 92
+  },
+  {
+    "material": "png/Tiles/water_bottom.png",
+    "posX": 3064,
+    "posY": -36
+  },
+  {
+    "material": "png/Tiles/water_surface.png",
+    "posX": 3192,
+    "posY": 220
+  },
+  {
+    "material": "png/Tiles/water_bottom.png",
+    "posX": 3192,
+    "posY": 92
+  },
+  {
+    "material": "png/Tiles/water_bottom.png",
+    "posX": 3192,
+    "posY": -36
+  },
+  {
+    "material": "png/Tiles/water_surface.png",
+    "posX": 3320,
+    "posY": 220
+  },
+  {
+    "material": "png/Tiles/water_bottom.png",
+    "posX": 3320,
+    "posY": 92
+  },
+  {
+    "material": "png/Tiles/water_bottom.png",
+    "posX": 3320,
+    "posY": -36
+  },
+  {
+    "material": "png/Tiles/water_surface.png",
+    "posX": 3448,
+    "posY": 220
+  },
+  {
+    "material": "png/Tiles/water_bottom.png",
+    "posX": 3448,
+    "posY": 92
+  },
+  {
+    "material": "png/Tiles/water_bottom.png",
+    "posX": 3448,
+    "posY": -36
+  },
+  {
+    "material": "png/Tiles/water_surface.png",
+    "posX": 3576,
+    "posY": 220
+  },
+  {
+    "material": "png/Tiles/water_bottom.png",
+    "posX": 3576,
+    "posY": 92
+  },
+  {
+    "material": "png/Tiles/water_bottom.png",
+    "posX": 3576,
+    "posY": -36
+  },
+  {
+    "material": "png/Tiles/water_surface.png",
+    "posX": 3704,
+    "posY": 220
+  },
+  {
+    "material": "png/Tiles/water_bottom.png",
+    "posX": 3704,
+    "posY": 92
+  },
+  {
+    "material": "png/Tiles/water_bottom.png",
+    "posX": 3704,
+    "posY": -36
+  },
+  {
+    "material": "png/Tiles/water_surface.png",
+    "posX": 3832,
+    "posY": 220
+  },
+  {
+    "material": "png/Tiles/water_bottom.png",
+    "posX": 3832,
+    "posY": 92
+  },
+  {
+    "material": "png/Tiles/water_bottom.png",
+    "posX": 3832,
+    "posY": -36
+  },
+  {
+    "material": "png/Tiles/water_surface.png",
+    "posX": 3960,
+    "posY": 220
+  },
+  {
+    "material": "png/Tiles/water_bottom.png",
+    "posX": 3960,
+    "posY": 92
+  },
+  {
+    "material": "png/Tiles/water_bottom.png",
+    "posX": 3960,
+    "posY": -36
+  },
+  {
+    "material": "png/Tiles/water_surface.png",
+    "posX": 4088,
+    "posY": 220
+  },
+  {
+    "material": "png/Tiles/water_bottom.png",
+    "posX": 4088,
+    "posY": 92
+  },
+  {
+    "material": "png/Tiles/water_bottom.png",
+    "posX": 4088,
+    "posY": -36
+  },
+  {
+    "material": "png/Tiles/water_surface.png",
+    "posX": 4216,
+    "posY": 220
+  },
+  {
+    "material": "png/Tiles/water_bottom.png",
+    "posX": 4216,
+    "posY": 92
+  },
+  {
+    "material": "png/Tiles/water_bottom.png",
+    "posX": 4216,
+    "posY": -36
+  },
+  {
+    "material": "png/Tiles/water_surface.png",
+    "posX": 4344,
+    "posY": 220
+  },
+  {
+    "material": "png/Tiles/water_bottom.png",
+    "posX": 4344,
+    "posY": 92
+  },
+  {
+    "material": "png/Tiles/water_bottom.png",
+    "posX": 4344,
+    "posY": -36
+  },
+  {
+    "material": "png/Tiles/1.png",
+    "posX": 4472,
+    "posY": 384
+  },
+  {
+    "material": "png/Tiles/4.png",
+    "posX": 4472,
+    "posY": 256
+  },
+  {
+    "material": "png/Tiles/4.png",
+    "posX": 4472,
+    "posY": 128
+  },
+  {
+    "material": "png/Tiles/4.png",
+    "posX": 4472,
+    "posY": 0
+  },
+  {
+    "material": "png/Tiles/2.png",
+    "posX": 4600,
+    "posY": 384
+  },
+  {
+    "material": "png/Tiles/5.png",
+    "posX": 4600,
+    "posY": 256
+  },
+  {
+    "material": "png/Tiles/5.png",
+    "posX": 4600,
+    "posY": 128
+  },
+  {
+    "material": "png/Tiles/5.png",
+    "posX": 4600,
+    "posY": 0
+  },
+  {
+    "material": "png/Object/SnowMan.png",
+    "posX": 4650,
+    "posY": 613
+  },
+  {
+    "material": "png/Object/IceBox.png",
+    "posX": 4650,
+    "posY": 512
+  },
+  {
+    "material": "png/Object/IceBox.png",
+    "posX": 4751,
+    "posY": 512
+  },
+  {
+    "material": "png/Tiles/3.png",
+    "posX": 4728,
+    "posY": 384
+  },
+  {
+    "material": "png/Tiles/6.png",
+    "posX": 4728,
+    "posY": 256
+  },
+  {
+    "material": "png/Tiles/6.png",
+    "posX": 4728,
+    "posY": 128
+  },
+  {
+    "material": "png/Tiles/6.png",
+    "posX": 4728,
+    "posY": 0
+  },
+  {
+    "material": "png/Tiles/14.png",
+    "posX": 4400,
+    "posY": 860
+  },
+  {
+    "material": "png/Tiles/15.png",
+    "posX": 4528,
+    "posY": 860
+  },
+  {
+    "material": "png/Tiles/16.png",
+    "posX": 4656,
+    "posY": 860
+  },
+  {
+    "material": "png/Tiles/water_surface.png",
+    "posX": 4856,
+    "posY": 220
+  },
+  {
+    "material": "png/Tiles/water_bottom.png",
+    "posX": 4856,
+    "posY": 92
+  },
+  {
+    "material": "png/Tiles/water_bottom.png",
+    "posX": 4856,
+    "posY": -36
+  },
+  {
+    "material": "png/Tiles/water_surface.png",
+    "posX": 4984,
+    "posY": 220
+  },
+  {
+    "material": "png/Tiles/water_bottom.png",
+    "posX": 4984,
+    "posY": 92
+  },
+  {
+    "material": "png/Tiles/water_bottom.png",
+    "posX": 4984,
+    "posY": -36
+  },
+  {
+    "material": "png/Tiles/water_surface.png",
+    "posX": 5112,
+    "posY": 220
+  },
+  {
+    "material": "png/Tiles/water_bottom.png",
+    "posX": 5112,
+    "posY": 92
+  },
+  {
+    "material": "png/Tiles/water_bottom.png",
+    "posX": 5112,
+    "posY": -36
+  },
+  {
+    "material": "png/Tiles/water_surface.png",
+    "posX": 5240,
+    "posY": 220
+  },
+  {
+    "material": "png/Tiles/water_bottom.png",
+    "posX": 5240,
+    "posY": 92
+  },
+  {
+    "material": "png/Tiles/water_bottom.png",
+    "posX": 5240,
+    "posY": -36
+  },
+  {
+    "material": "png/Tiles/1.png",
+    "posX": 5368,
+    "posY": 256
+  },
+  {
+    "material": "png/Tiles/4.png",
+    "posX": 5368,
+    "posY": 128
+  },
+  {
+    "material": "png/Tiles/4.png",
+    "posX": 5368,
+    "posY": 0
+  },
+  {
+    "material": "png/Tiles/2.png",
+    "posX": 5496,
+    "posY": 256
+  },
+  {
+    "material": "png/Tiles/5.png",
+    "posX": 5496,
+    "posY": 128
+  },
+  {
+    "material": "png/Tiles/5.png",
+    "posX": 5496,
+    "posY": 0
+  },
+  {
+    "material": "png/Tiles/2.png",
+    "posX": 5624,
+    "posY": 256
+  },
+  {
+    "material": "png/Tiles/5.png",
+    "posX": 5624,
+    "posY": 128
+  },
+  {
+    "material": "png/Tiles/5.png",
+    "posX": 5624,
+    "posY": 0
+  },
+  {
+    "material": "png/Tiles/2.png",
+    "posX": 5752,
+    "posY": 256
+  },
+  {
+    "material": "png/Tiles/5.png",
+    "posX": 5752,
+    "posY": 128
+  },
+  {
+    "material": "png/Tiles/5.png",
+    "posX": 5752,
+    "posY": 0
+  },
+  {
+    "material": "png/Tiles/2.png",
+    "posX": 5880,
+    "posY": 256
+  },
+  {
+    "material": "png/Tiles/5.png",
+    "posX": 5880,
+    "posY": 128
+  },
+  {
+    "material": "png/Tiles/5.png",
+    "posX": 5880,
+    "posY": 0
+  },
+  {
+    "material": "png/Tiles/2.png",
+    "posX": 6008,
+    "posY": 256
+  },
+  {
+    "material": "png/Tiles/5.png",
+    "posX": 6008,
+    "posY": 128
+  },
+  {
+    "material": "png/Tiles/5.png",
+    "posX": 6008,
+    "posY": 0
+  },
+  {
+    "material": "png/Tiles/2.png",
+    "posX": 6136,
+    "posY": 256
+  },
+  {
+    "material": "png/Tiles/5.png",
+    "posX": 6136,
+    "posY": 128
+  },
+  {
+    "material": "png/Tiles/5.png",
+    "posX": 6136,
+    "posY": 0
+  },
+  {
+    "material": "png/Tiles/2.png",
+    "posX": 6264,
+    "posY": 256
+  },
+  {
+    "material": "png/Tiles/5.png",
+    "posX": 6264,
+    "posY": 128
+  },
+  {
+    "material": "png/Tiles/5.png",
+    "posX": 6264,
+    "posY": 0
+  },
+  {
+    "material": "png/Tiles/2.png",
+    "posX": 6392,
+    "posY": 256
+  },
+  {
+    "material": "png/Tiles/5.png",
+    "posX": 6392,
+    "posY": 128
+  },
+  {
+    "material": "png/Tiles/5.png",
+    "posX": 6392,
+    "posY": 0
+  },
+  {
+    "material": "png/Tiles/2.png",
+    "posX": 6520,
+    "posY": 256
+  },
+  {
+    "material": "png/Tiles/5.png",
+    "posX": 6520,
+    "posY": 128
+  },
+  {
+    "material": "png/Tiles/5.png",
+    "posX": 6520,
+    "posY": 0
+  },
+  {
+    "material": "png/Tiles/2.png",
+    "posX": 6648,
+    "posY": 256
+  },
+  {
+    "material": "png/Tiles/5.png",
+    "posX": 6648,
+    "posY": 128
+  },
+  {
+    "material": "png/Tiles/5.png",
+    "posX": 6648,
+    "posY": 0
+  },
+  {
+    "material": "png/Tiles/2.png",
+    "posX": 6776,
+    "posY": 256
+  },
+  {
+    "material": "png/Tiles/5.png",
+    "posX": 6776,
+    "posY": 128
+  },
+  {
+    "material": "png/Tiles/5.png",
+    "posX": 6776,
+    "posY": 0
+  },
+  {
+    "material": "png/Tiles/2.png",
+    "posX": 6904,
+    "posY": 256
+  },
+  {
+    "material": "png/Object/Crate.png",
+    "posX": 6950,
+    "posY": 580
+  },
+  {
+    "material": "png/Tiles/5.png",
+    "posX": 6904,
+    "posY": 128
+  },
+  {
+    "material": "png/Tiles/5.png",
+    "posX": 6904,
+    "posY": 0
+  },
+  {
+    "material": "png/Tiles/2.png",
+    "posX": 7032,
+    "posY": 256
+  },
+  {
+    "material": "png/Tiles/5.png",
+    "posX": 7032,
+    "posY": 128
+  },
+  {
+    "material": "png/Tiles/5.png",
+    "posX": 7032,
+    "posY": 0
+  },
+  {
+    "material": "png/Tiles/2.png",
+    "posX": 7160,
+    "posY": 256
+  },
+  {
+    "material": "png/Object/SnowMan.png",
+    "posX": 7160,
+    "posY": 485
+  },
+  {
+    "material": "png/Object/IceBox.png",
+    "posX": 7160,
+    "posY": 384
+  },
+  {
+    "material": "png/Object/IceBox.png",
+    "posX": 7261,
+    "posY": 384
+  },
+  {
+    "material": "png/Tiles/5.png",
+    "posX": 7160,
+    "posY": 128
+  },
+  {
+    "material": "png/Tiles/5.png",
+    "posX": 7160,
+    "posY": 0
+  },
+  {
+    "material": "png/Tiles/2.png",
+    "posX": 7288,
+    "posY": 256
+  },
+  {
+    "material": "png/Tiles/5.png",
+    "posX": 7288,
+    "posY": 128
+  },
+  {
+    "material": "png/Tiles/5.png",
+    "posX": 7288,
+    "posY": 0
+  },
+  {
+    "material": "png/Tiles/2.png",
+    "posX": 7416,
+    "posY": 256
+  },
+  {
+    "material": "png/Tiles/5.png",
+    "posX": 7416,
+    "posY": 128
+  },
+  {
+    "material": "png/Tiles/5.png",
+    "posX": 7416,
+    "posY": 0
+  },
+  {
+    "material": "png/Tiles/2.png",
+    "posX": 7544,
+    "posY": 256
+  },
+  {
+    "material": "png/Tiles/5.png",
+    "posX": 7544,
+    "posY": 128
+  },
+  {
+    "material": "png/Tiles/5.png",
+    "posX": 7544,
+    "posY": 0
+  },
+  {
+    "material": "png/Tiles/2.png",
+    "posX": 7672,
+    "posY": 256
+  },
+  {
+    "material": "png/Tiles/5.png",
+    "posX": 7672,
+    "posY": 128
+  },
+  {
+    "material": "png/Tiles/5.png",
+    "posX": 7672,
+    "posY": 0
+  },
+  {
+    "material": "png/Tiles/2.png",
+    "posX": 7800,
+    "posY": 256
+  },
+  {
+    "material": "png/Tiles/5.png",
+    "posX": 7800,
+    "posY": 128
+  },
+  {
+    "material": "png/Tiles/5.png",
+    "posX": 7800,
+    "posY": 0
+  },
+  {
+    "material": "png/Tiles/2.png",
+    "posX": 7928,
+    "posY": 256
+  },
+  {
+    "material": "png/Tiles/5.png",
+    "posX": 7928,
+    "posY": 128
+  },
+  {
+    "material": "png/Tiles/5.png",
+    "posX": 7928,
+    "posY": 0
+  },
+  {
+    "material": "png/Tiles/2.png",
+    "posX": 8056,
+    "posY": 256
+  },
+  {
+    "material": "png/Tiles/5.png",
+    "posX": 8056,
+    "posY": 128
+  },
+  {
+    "material": "png/Tiles/5.png",
+    "posX": 8056,
+    "posY": 0
+  },
+  {
+    "material": "png/Tiles/2.png",
+    "posX": 8184,
+    "posY": 256
+  },
+  {
+    "material": "png/Tiles/5.png",
+    "posX": 8184,
+    "posY": 128
+  },
+  {
+    "material": "png/Tiles/5.png",
+    "posX": 8184,
+    "posY": 0
+  },
+  {
+    "material": "png/Tiles/2.png",
+    "posX": 8312,
+    "posY": 256
+  },
+  {
+    "material": "png/Tiles/5.png",
+    "posX": 8312,
+    "posY": 128
+  },
+  {
+    "material": "png/Tiles/5.png",
+    "posX": 8312,
+    "posY": 0
+  },
+  {
+    "material": "png/Tiles/2.png",
+    "posX": 8440,
+    "posY": 256
+  },
+  {
+    "material": "png/Tiles/5.png",
+    "posX": 8440,
+    "posY": 128
+  },
+  {
+    "material": "png/Tiles/5.png",
+    "posX": 8440,
+    "posY": 0
+  },
+  {
+    "material": "png/Tiles/2.png",
+    "posX": 8568,
+    "posY": 256
+  },
+  {
+    "material": "png/Tiles/5.png",
+    "posX": 8568,
+    "posY": 128
+  },
+  {
+    "material": "png/Tiles/5.png",
+    "posX": 8568,
+    "posY": 0
+  },
+  {
+    "material": "png/Tiles/2.png",
+    "posX": 8696,
+    "posY": 256
+  },
+  {
+    "material": "png/Tiles/5.png",
+    "posX": 8696,
+    "posY": 128
+  },
+  {
+    "material": "png/Tiles/5.png",
+    "posX": 8696,
+    "posY": 0
+  },
+  {
+    "material": "png/Tiles/2.png",
+    "posX": 8824,
+    "posY": 256
+  },
+  {
+    "material": "png/Tiles/5.png",
+    "posX": 8824,
+    "posY": 128
+  },
+  {
+    "material": "png/Tiles/5.png",
+    "posX": 8824,
+    "posY": 0
+  },
+  {
+    "material": "png/Tiles/2.png",
+    "posX": 8952,
+    "posY": 256
+  },
+  {
+    "material": "png/Tiles/5.png",
+    "posX": 8952,
+    "posY": 128
+  },
+  {
+    "material": "png/Tiles/5.png",
+    "posX": 8952,
+    "posY": 0
+  },
+  {
+    "material": "png/Tiles/2.png",
+    "posX": 9080,
+    "posY": 256
+  },
+  {
+    "material": "png/Tiles/5.png",
+    "posX": 9080,
+    "posY": 128
+  },
+  {
+    "material": "png/Tiles/5.png",
+    "posX": 9080,
+    "posY": 0
+  },
+  {
+    "material": "png/Tiles/3.png",
+    "posX": 9208,
+    "posY": 256
+  },
+  {
+    "material": "png/Tiles/6.png",
+    "posX": 9208,
+    "posY": 128
+  },
+  {
+    "material": "png/Tiles/6.png",
+    "posX": 9208,
+    "posY": 0
+  },
+  {
+    "material": "png/Object/Sign_2.png",
+    "posX": 9208,
+    "posY": 384
+  }
+]
