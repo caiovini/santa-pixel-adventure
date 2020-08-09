@@ -3,7 +3,7 @@ Small game for android using libgdx
 
 ## Demo 
 
-![alt text](https://github.com/caiovini/santa-pixel-adventure/blob/master/Demo.gif)
+![alt text](https://github.com/caiovini/santa-pixel-adventure/blob/master/demo.gif)
 
 ## Build the project 
 
