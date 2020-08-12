@@ -66,11 +66,9 @@ public class Assets {
 
         List<ObjectsMap> sprites = new ArrayList<>();
         snowball = new ArrayList<>();
-        idealHeight -= Gdx.graphics.getHeight();
+        float calcHeight = idealHeight - Gdx.graphics.getHeight();
 
         for (Model m : map){
-
-            if (idealHeight > 0) m.setPosY(m.getPosY() - idealHeight / 2);
 
             if (m.getMaterial().substring(4 , 9).equals("Tiles")){
 
@@ -78,32 +76,38 @@ public class Assets {
 
                 ObjectsMap tile = new ObjectsMap(manager.get(m.getMaterial() , Texture.class) , type);
                 tile.setPosition(m.getPosX() , m.getPosY());
+                if (calcHeight > 0) tile.setY(m.getPosY() - calcHeight / 2);
                 sprites.add(tile);
 
             }else if(m.getMaterial().substring(11 , 15).equals("Tree")){
 
                 ObjectsMap tree = new ObjectsMap(manager.get(m.getMaterial() , Texture.class) , AssetType.TREE);
                 tree.setPosition(m.getPosX(), m.getPosY());
+                if (calcHeight > 0) tree.setY(m.getPosY() - calcHeight / 2);
                 sprites.add(tree);
             }else if(m.getMaterial().substring(11 , 15).equals("Sign")){
 
                 ObjectsMap sign = new ObjectsMap(manager.get(m.getMaterial() , Texture.class) , AssetType.SIGN);
                 sign.setPosition(m.getPosX(), m.getPosY());
+                if (calcHeight > 0) sign.setY(m.getPosY() - calcHeight / 2);
                 sprites.add(sign);
             }else if(m.getMaterial().substring(11 , 17).equals("IceBox")) {
 
                 ObjectsMap iceBox = new ObjectsMap(manager.get(m.getMaterial() , Texture.class), AssetType.ICE_BOX);
                 iceBox.setPosition(m.getPosX(), m.getPosY());
+                if (calcHeight > 0) iceBox.setY(m.getPosY() - calcHeight / 2);
                 sprites.add(iceBox);
             }else if(m.getMaterial().substring(11 , 16).equals("Crate")) {
 
                 ObjectsMap crate = new ObjectsMap(manager.get(m.getMaterial() , Texture.class), AssetType.CRATE);
                 crate.setPosition(m.getPosX(), m.getPosY());
+                if (calcHeight > 0) crate.setY(m.getPosY() - calcHeight / 2);
                 sprites.add(crate);
             }else if(m.getMaterial().substring(11 , 18).equals("Crystal")) {
 
                 ObjectsMap crystal = new ObjectsMap(manager.get(m.getMaterial() , Texture.class), AssetType.CRYSTAL);
                 crystal.setPosition(m.getPosX(), m.getPosY());
+                if (calcHeight > 0) crystal.setY(m.getPosY() - calcHeight / 2);
                 sprites.add(crystal);
             }else if(m.getMaterial().substring(11 , 16).equals("Igloo")) {
 
@@ -112,6 +116,7 @@ public class Assets {
 
                 // Flipping it, looks better
                 igloo.flip(true , false);
+                if (calcHeight > 0) igloo.setY(m.getPosY() - calcHeight / 2);
                 sprites.add(igloo);
             }else if(m.getMaterial().substring(11 , 18).equals("SnowMan")) {
 
@@ -120,6 +125,7 @@ public class Assets {
 
                 // Flipping it, looks better
                 snowman.flip(true , false);
+                if (calcHeight > 0) snowman.setY(m.getPosY() - calcHeight / 2);
                 sprites.add(snowman);
 
                 // Snowballs
@@ -131,6 +137,7 @@ public class Assets {
 
                 ObjectsMap stone = new ObjectsMap(manager.get(m.getMaterial() , Texture.class), AssetType.STONE);
                 stone.setPosition(m.getPosX(), m.getPosY());
+                if (calcHeight > 0) stone.setY(m.getPosY() - calcHeight / 2);
                 sprites.add(stone);
             }
         }
