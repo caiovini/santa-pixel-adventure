@@ -18,3 +18,7 @@ https://www.gamedevmarket.net/asset/animated-snowball-game-projectile/<br/>
 https://www.youtube.com/watch?v=0bI3bd40q6w&list=PLya__OBTLMkONuQDu0kHDCrml2xuEINSi&index=5<br/>
 https://www.youtube.com/watch?v=1qAcxy8whyE&list=PLya__OBTLMkONuQDu0kHDCrml2xuEINSi&index=9<br/>
 
+## Try it out
+
+Google play store [here](https://play.google.com/store/apps/details?id=com.pixeladventure.game)
+
