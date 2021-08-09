@@ -24,7 +24,7 @@ import static com.badlogic.gdx.net.HttpRequestBuilder.json;
 
 public class Assets {
 
-    private static float idealHeight = 1440f;
+    private static float idealHeight = 1340f;
     private static final int RUN_SLIDE_QTD = 11;
     private static final int JUMP_IDLE_TILES_QTD = 16;
     private static final int WALK_QTD = 13;
