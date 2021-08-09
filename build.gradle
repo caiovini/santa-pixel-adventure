@@ -19,7 +19,7 @@ buildscript {
 allprojects {
     apply plugin: "eclipse"
 
-    version = '1.0'
+    version = '2.0'
     ext {
         appName = "pixel-adventure"
         gdxVersion = '1.9.10'
