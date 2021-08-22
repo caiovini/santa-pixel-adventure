@@ -443,7 +443,7 @@ public class GameScreen extends ApplicationAdapter implements Screen {
                     }else if(
                         s.getAssetType().equals(Assets.AssetType.TILE)){
 
-                        if (playerRectangle.getY() * 1.05 > tileHeight) // Consider 5% margin
+                        if (playerRectangle.getY() + (h * 0.01) > tileHeight)
                             isCollisionTile = true;
 
                     }else if(s.getAssetType().equals(Assets.AssetType.WATER)) {
